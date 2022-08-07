@@ -1,0 +1,22 @@
+.home{
+    background-image: url('/public/images/metal.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    justify-content: flex-end; 
+}
+
+.footer__metal{
+    position: relative;
+    font-size: 1.8rem;
+    color: whitesmoke;
+}
+
+.col__footer{
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    border: 0.1rem dashed gray;
+}
+

@@ -1,0 +1,38 @@
+.home{
+    background-image: url('/public/images/wood.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+}
+
+.profile__box{
+    position: relative;
+    color: white;
+    font-size: 2.2rem;
+}
+
+.profile__text__h1{
+    font-size: 2.8rem;
+}
+
+.button__next__profile{
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: 800;
+    width: -webkit-fill-available;
+}
+
+.carousel{
+    position: relative;
+}
+
+@media (max-width: 576px){
+    .carousel{
+        display: none;
+    }
+    .last__text{
+        display: none;
+    }
+}

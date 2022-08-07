@@ -1,0 +1,15 @@
+.navlink{
+    position: relative;
+    font-size: 2rem;
+    font-weight: bold;
+    color: purple;
+}
+
+.select__box{
+    border: none;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: purple;
+    background-color: transparent;
+}

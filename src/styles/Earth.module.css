@@ -1,0 +1,33 @@
+.home{
+    background-image: url('/public/images/earth.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+}
+
+.mask__custom {
+    background: rgba(24, 24, 16, .2);
+    border-radius: 2rem;
+    backdrop-filter: blur(25px);
+    border: 0.2rem solid white;
+    background-clip: padding-box;
+    box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+}
+
+table td,
+table th {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 1.2rem;
+}
+
+.title__table{
+    position: relative;
+    text-align: center;
+}
+
+.title__table th{
+    font-size: 2rem;
+}
+

@@ -1,0 +1,22 @@
+.home{
+    background-image: url('/public/images/fire.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+}
+
+.title__fire{
+    position: relative;
+    font-size: 2.8rem;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    color: red !important;
+    background-color: transparent;
+}
+
+.span__fire{
+    position: relative;
+    font-size: 1.4rem;
+    text-align: start;
+}
