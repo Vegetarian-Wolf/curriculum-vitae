@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/curriculum-vitae/static/css/main.df5ab145.css",
+    "main.js": "/curriculum-vitae/static/js/main.886e2ff6.js",
+    "static/css/306.7a6bf8b9.chunk.css": "/curriculum-vitae/static/css/306.7a6bf8b9.chunk.css",
+    "static/js/306.aa2a2740.chunk.js": "/curriculum-vitae/static/js/306.aa2a2740.chunk.js",
+    "static/css/39.118fe838.chunk.css": "/curriculum-vitae/static/css/39.118fe838.chunk.css",
+    "static/js/39.276b8e68.chunk.js": "/curriculum-vitae/static/js/39.276b8e68.chunk.js",
+    "static/css/248.05159b6a.chunk.css": "/curriculum-vitae/static/css/248.05159b6a.chunk.css",
+    "static/js/248.07298a8d.chunk.js": "/curriculum-vitae/static/js/248.07298a8d.chunk.js",
+    "static/css/658.b8181336.chunk.css": "/curriculum-vitae/static/css/658.b8181336.chunk.css",
+    "static/js/658.0171a8c6.chunk.js": "/curriculum-vitae/static/js/658.0171a8c6.chunk.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/curriculum-vitae/static/js/787.f2a0fa2f.chunk.js",
+    "static/js/497.414ce583.chunk.js": "/curriculum-vitae/static/js/497.414ce583.chunk.js",
+    "static/media/earth.jpg": "/curriculum-vitae/static/media/earth.619a7971be02dcaeb0f7.jpg",
+    "static/media/wood.jpg": "/curriculum-vitae/static/media/wood.cfc6532b42b1fa16fc82.jpg",
+    "static/media/background-1.jpg": "/curriculum-vitae/static/media/background-1.2c0c781bcb00dd768b55.jpg",
+    "static/media/water.jpg": "/curriculum-vitae/static/media/water.68f714264fa4665459d8.jpg",
+    "static/media/metal.jpg": "/curriculum-vitae/static/media/metal.1cfeeab24b2fa0af99f4.jpg",
+    "static/media/fire.jpg": "/curriculum-vitae/static/media/fire.84b962a0e2aefae1da40.jpg",
+    "index.html": "/curriculum-vitae/index.html",
+    "static/media/getFetch.cjs": "/curriculum-vitae/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.df5ab145.css.map": "/curriculum-vitae/static/css/main.df5ab145.css.map",
+    "main.886e2ff6.js.map": "/curriculum-vitae/static/js/main.886e2ff6.js.map",
+    "306.7a6bf8b9.chunk.css.map": "/curriculum-vitae/static/css/306.7a6bf8b9.chunk.css.map",
+    "306.aa2a2740.chunk.js.map": "/curriculum-vitae/static/js/306.aa2a2740.chunk.js.map",
+    "39.118fe838.chunk.css.map": "/curriculum-vitae/static/css/39.118fe838.chunk.css.map",
+    "39.276b8e68.chunk.js.map": "/curriculum-vitae/static/js/39.276b8e68.chunk.js.map",
+    "248.05159b6a.chunk.css.map": "/curriculum-vitae/static/css/248.05159b6a.chunk.css.map",
+    "248.07298a8d.chunk.js.map": "/curriculum-vitae/static/js/248.07298a8d.chunk.js.map",
+    "658.b8181336.chunk.css.map": "/curriculum-vitae/static/css/658.b8181336.chunk.css.map",
+    "658.0171a8c6.chunk.js.map": "/curriculum-vitae/static/js/658.0171a8c6.chunk.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/curriculum-vitae/static/js/787.f2a0fa2f.chunk.js.map",
+    "497.414ce583.chunk.js.map": "/curriculum-vitae/static/js/497.414ce583.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5ab145.css",
+    "static/js/main.886e2ff6.js"
+  ]
+}
